@@ -5,3 +5,4 @@ Tech Stack:
 HTML, Python
 
 # webcam-motion-detector
+python3 <file>.py
